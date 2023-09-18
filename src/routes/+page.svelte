@@ -18,4 +18,5 @@
 	<li><a href="/tasks/timer">Timer</a></li>
 	<li><a href="/tasks/crud">CRUD</a></li>
 	<li><a href="/tasks/circle-drawer">Circle Drawer</a></li>
+	<li><a href="/tasks/cells">Cells</a></li>
 </ol>
